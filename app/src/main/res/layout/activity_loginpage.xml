@@ -17,7 +17,7 @@
             android:layout_width="240dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            app:srcCompat="@mipmap/eNoticeLogo" />
+            app:srcCompat="@mipmap/enoticelogo" />
 
         <LinearLayout
             android:layout_width="260dp"
