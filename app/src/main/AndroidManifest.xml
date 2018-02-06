@@ -18,7 +18,8 @@
         </activity>
         <activity
             android:name=".activity.NaviActivity"
-            android:label="@string/title_activity_navi"></activity>
+            android:label="@string/title_activity_navi" />
+        <activity android:name=".activity.ChildrenListActivity"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android_projects\eNoticesApp\beeframework\src\main\jniLibs"><file name="armeabi/libbdpush_V2_1.so" path="D:\android_projects\eNoticesApp\beeframework\src\main\jniLibs\armeabi\libbdpush_V2_1.so"/><file name="mips/libbdpush_V2_1.so" path="D:\android_projects\eNoticesApp\beeframework\src\main\jniLibs\mips\libbdpush_V2_1.so"/></source></dataSet><dataSet config="debug"><source path="D:\android_projects\eNoticesApp\beeframework\src\debug\jniLibs"/></dataSet></merger>
