@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-84:12
-INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-84:12
-INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-84:12
-INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-84:12
-INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-84:12
-INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-84:12
-INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-84:12
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:2:1-93:12
 	package
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml
@@ -35,159 +35,177 @@ INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManif
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:8:9-34
 		INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml
 		INJECTED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:11:5-13:38
+	android:maxSdkVersion
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:13:9-35
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:12:9-55
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:14:5-16:38
+	android:maxSdkVersion
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:16:9-35
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:15:9-58
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:11:5-71
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:17:5-71
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:11:22-68
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:17:22-68
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:12:5-79
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:12:22-76
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:18:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:13:5-67
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:19:5-67
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:13:22-64
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:20:5-22:38
+	android:maxSdkVersion
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:22:9-35
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:21:9-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:14:5-81
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:23:5-81
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:14:22-78
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:23:22-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:15:5-76
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:24:5-76
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:15:22-73
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:24:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:16:5-79
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:16:22-76
-uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:17:5-78
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:17:22-75
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:18:5-75
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:18:22-72
-uses-permission#android.permission.BROADCAST_STICKY
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:19:5-75
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:19:22-72
-uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:20:5-73
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:20:22-70
-uses-permission#android.permission.VIBRATE
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:21:5-66
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:21:22-63
-uses-permission#android.permission.DISABLE_KEYGUARD
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:23:5-75
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:23:22-72
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:24:5-81
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:24:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:25:5-79
 	android:name
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:26:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:28:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:29:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:30:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:34:22-76
 uses-permission#android.permission.CALL_PHONE
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:26:5-69
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:35:5-69
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:26:22-66
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:35:22-66
 uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:27:5-84
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:36:5-84
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:27:22-81
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:36:22-81
 application
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:29:5-82:19
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:38:5-91:19
 	android:label
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:30:9-41
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:39:9-41
 activity#com.BeeFramework.activity.DebugTabActivity
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:31:9-34:52
-	android:screenOrientation
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:34:13-49
-	android:launchMode
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:33:13-44
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:32:13-70
-activity#com.BeeFramework.activity.ActivityLifeCycleActivity
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:35:9-37:52
-	android:screenOrientation
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:37:13-49
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:36:13-79
-activity#com.BeeFramework.activity.DebugMessageListActivity
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:38:9-40:52
-	android:screenOrientation
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:40:13-49
-	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:39:13-78
-activity#com.BeeFramework.activity.DebugDetailActivity
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:41:9-43:52
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:40:9-43:52
 	android:screenOrientation
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:43:13-49
+	android:launchMode
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:42:13-44
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:42:13-73
-activity#com.BeeFramework.activity.MemoryMessageActivity
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:41:13-70
+activity#com.BeeFramework.activity.ActivityLifeCycleActivity
 ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:44:9-46:52
 	android:screenOrientation
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:46:13-49
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:45:13-75
-activity#com.BeeFramework.activity.FloatViewSettingActivity
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:45:13-79
+activity#com.BeeFramework.activity.DebugMessageListActivity
 ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:47:9-49:52
 	android:screenOrientation
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:49:13-49
 	android:name
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:48:13-78
-activity#com.BeeFramework.activity.CrashLogActivity
+activity#com.BeeFramework.activity.DebugDetailActivity
 ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:50:9-52:52
 	android:screenOrientation
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:52:13-49
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:51:13-70
-activity#com.BeeFramework.activity.CrashLogDetailActivity
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:51:13-73
+activity#com.BeeFramework.activity.MemoryMessageActivity
 ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:53:9-55:52
 	android:screenOrientation
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:55:13-49
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:54:13-76
-activity#com.BeeFramework.activity.DebugCancelDialogActivity
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:57:9-60:45
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:54:13-75
+activity#com.BeeFramework.activity.FloatViewSettingActivity
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:56:9-58:52
 	android:screenOrientation
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:59:13-49
-	android:theme
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:60:13-42
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:58:13-49
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:58:13-79
-activity#com.BeeFramework.activity.WebViewActivity
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:57:13-78
+activity#com.BeeFramework.activity.CrashLogActivity
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:60:13-70
+activity#com.BeeFramework.activity.CrashLogDetailActivity
 ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:62:9-64:52
 	android:screenOrientation
 		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:64:13-49
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:63:13-69
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:63:13-76
+activity#com.BeeFramework.activity.DebugCancelDialogActivity
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:66:9-69:45
+	android:screenOrientation
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:68:13-49
+	android:theme
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:69:13-42
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:67:13-79
+activity#com.BeeFramework.activity.WebViewActivity
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:72:13-69
 service#com.BeeFramework.service.MemoryService
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:69:9-73:19
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:78:9-82:19
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:69:18-71
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:78:18-71
 intent-filter#com.BeeFramework.MemoryService
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:70:13-72:29
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:79:13-81:29
 	android:priority
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:70:28-51
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:79:28-51
 action#com.BeeFramework.MemoryService
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:71:17-73
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:80:17-73
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:71:25-70
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:80:25-70
 service#com.BeeFramework.service.NetworkStateService
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:74:9-78:19
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:83:9-87:19
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:74:18-77
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:83:18-77
 intent-filter#com.BeeFramework.NetworkState.Service
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:75:13-77:29
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:84:13-86:29
 	android:priority
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:75:28-51
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:84:28-51
 action#com.BeeFramework.NetworkState.Service
-ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:76:17-80
+ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:85:17-80
 	android:name
-		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:76:25-77
+		ADDED from D:\android_projects\eNoticesApp\beeframework\src\main\AndroidManifest.xml:85:25-77

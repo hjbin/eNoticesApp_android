@@ -1,0 +1,630 @@
+[
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_3.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_3.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_floatview_setting.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\floatview_setting.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_avatar_qfish.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avatar_qfish.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_xlistview_header.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_left_in.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_cont_bg_bottom.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\cont_bg_bottom.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_textbg_select.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\textbg_select.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_back_icon.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\back_icon.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_splash.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_b1_indexboard_iphone_9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\b1_indexboard_iphone_9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_debug_message_list.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\debug_message_list.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_01.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_01.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_profile_list_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\profile_list_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_08.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_08.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_seekbar_img.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\seekbar_img.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_sns_shoot_location_pressed.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sns_shoot_location_pressed.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_2.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_2.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_07.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_07.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_browser_baritem_refresh.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\browser_baritem_refresh.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_default_image.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_image.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_footer_active_bg.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\footer_active_bg.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_download_dialog_bg.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\download_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_shot.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\shot.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_rotate.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_crash_log_activity.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\crash_log_activity.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_10.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_10.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_10.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_10.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_webview.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_progress_view.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_view.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_avatar_howie.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avatar_howie.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_5.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_5.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_bg.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_shot_list_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\shot_list_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_shot_list.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\shot_list.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_f_bg.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\f_bg.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_xlistview_arrow.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_geek_zoo.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\geek_zoo.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_followers_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\followers_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_comment_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_comment_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_b2_publishphotoboard_1.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\b2_publishphotoboard_1.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_memory_message.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\memory_message.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_debug_message_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\debug_message_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_overscroll_glow.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\overscroll_glow.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_debug_message_detail.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\debug_message_detail.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_comment_list.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_comment_list.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_dialog_bg.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gallery_image.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\gallery_image.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_cycle.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_item_grid_filter_down_active_arrow.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\item_grid_filter_down_active_arrow.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_tab_normal.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\tab_normal.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_tab_sel.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\tab_sel.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_debug_home_tab.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\debug_home_tab.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_05.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_05.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_avatar_houxin.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avatar_houxin.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_feed_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\feed_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_up_in.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_right_in.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_feed_item_bg.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\feed_item_bg.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_vpi__dark_theme.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_profile_refresh_site_icon.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\profile_refresh_site_icon.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_item_grid_filter_up_active_arrow.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\item_grid_filter_up_active_arrow.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_lifecycle_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_lifecycle_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_as_browser.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\as_browser.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_02.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_02.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_body_cont_bg.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\body_cont_bg.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_splash_background.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\splash_background.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_qzone_photo_btn_add_click.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\qzone_photo_btn_add_click.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_8.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_8.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_btn_yellow.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_yellow.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_seekbar_fill.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\seekbar_fill.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_f1_menuboard_5.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\f1_menuboard_5.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_profile_bottom.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\profile_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_trend_topic.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\trend_topic.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_default_user_icon.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_user_icon.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_12.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_12.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_loading_animation.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_lifecycle_activity.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_lifecycle_activity.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_left_out.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_memory.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\memory.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_7.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_7.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_wallet_bankcard_detail_virtual.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wallet_bankcard_detail_virtual.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_read_yes.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\read_yes.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_up_out.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_btn_red.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_red.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_main.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_crash_log_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\crash_log_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_shot_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\shot_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_vpi__light_theme.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_followers_list.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\followers_list.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_download_dialog.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\download_dialog.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_tab_select.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\tab_select.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_profile_no_avarta_icon.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\profile_no_avarta_icon.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vpi__tab_selected_holo.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_b1_indexboard_iphone_10.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\b1_indexboard_iphone_10.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_6.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_6.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_seekbar_back.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\seekbar_back.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_nav_background.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nav_background.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_04.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_04.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_profile.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_progress_bg.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_bg.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_browser_baritem_back.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\browser_baritem_back.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_right_out.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_06.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_06.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_gallery_image_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\gallery_image_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_articbotm.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\articbotm.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_tablecellline.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\tablecellline.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_team_introduction.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\team_introduction.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_nav_bg.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nav_bg.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_download.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\download.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_dialog_layout.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_button_normal.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\button_normal.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_xlistview_footer.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_buttom_in.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_buttom_in.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_taost_view.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\taost_view.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_bug.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bug.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_profile_list.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\profile_list.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_browser_baritem_forward.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\browser_baritem_forward.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_f1_menuboard_1.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\f1_menuboard_1.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_timeline_activity.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\timeline_activity.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_arrow_left_white.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\arrow_left_white.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_crash_log_detail_activity.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\crash_log_detail_activity.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_navigationbar.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\navigationbar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_semitrans_bg.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\semitrans_bg.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_03.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_03.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_overscroll_edge.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\overscroll_edge.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_loadmore_animation.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\loadmore_animation.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_as_clear_location.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\as_clear_location.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_web_tools.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\web_tools.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_home_tab.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\home_tab.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_beelogo.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\beelogo.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_heart.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\heart.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_11.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_11.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_push_buttom_out.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\anim\\push_buttom_out.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vpi__tab_unselected_holo.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_toolbar_bg.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\toolbar_bg.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vpi__tab_indicator.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_photo_detail.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_photo_detail.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_4.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_4.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_close_btn.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\close_btn.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_trend_activity.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\trend_activity.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_shot_comment_item.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\shot_comment_item.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_comment.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\comment.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_avatar_laoguo.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avatar_laoguo.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_bakchat_check_list_progress.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bakchat_check_list_progress.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_netload_09.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\netload_09.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_round_1.png.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\round_1.png"
+    },
+    {
+        "merged": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_theme_download_activity.xml.flat",
+        "source": "D:\\android_projects\\eNoticesApp\\beeframework\\build\\intermediates\\bundles\\debug\\res\\layout\\theme_download_activity.xml"
+    }
+]

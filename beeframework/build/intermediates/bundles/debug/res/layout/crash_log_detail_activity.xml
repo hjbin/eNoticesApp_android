@@ -13,7 +13,6 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/crash_detail"
                 android:textSize="12dp"
-                android:textAlignment="textStart"
                 android:text=""
                 android:typeface="monospace" android:ellipsize="none"/>
     </LinearLayout>
