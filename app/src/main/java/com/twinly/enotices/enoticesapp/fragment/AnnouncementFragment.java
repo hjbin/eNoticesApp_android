@@ -78,6 +78,22 @@ public class AnnouncementFragment extends Fragment {
 
         tabLayout=(TabLayout)view.findViewById(R.id.tab_group_announ);
         vp_announ=(ViewPager)view.findViewById(R.id.vp_announ);
+        tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
+            @Override
+            public void onTabSelected(TabLayout.Tab tab) {
+
+            }
+
+            @Override
+            public void onTabUnselected(TabLayout.Tab tab) {
+
+            }
+
+            @Override
+            public void onTabReselected(TabLayout.Tab tab) {
+
+            }
+        });
         return view;
     }
 
