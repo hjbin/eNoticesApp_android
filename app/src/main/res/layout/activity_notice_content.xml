@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.twinly.enotices.enoticesapp.activity.NoticeContentActivity">
+
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Notice Sample Title"
+        android:textSize="22sp"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_detail_postdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Posted on: 2018-01-02" />
+
+            <TextView
+                android:id="@+id/tv_detail_deadline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Deadline: 2018-02-01" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_detail_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/colorOrange"
+            android:textSize="18sp"
+            android:text="Unsigned" />
+
+
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@mipmap/q_and_a_icon"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="10dp"
+            android:text="" />
+
+    </LinearLayout>
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    </WebView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_tool"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:background="#1ABC9C"
+            android:textColor="#ffffff"
+            android:layout_marginRight="20dp"
+            android:text="Toolbox" />
+
+        <Button
+            android:id="@+id/btn_reply"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff"
+            android:background="#F4D03F"
+            android:layout_marginLeft="20dp"
+            android:text="Reply" />
+    </LinearLayout>
+</LinearLayout>

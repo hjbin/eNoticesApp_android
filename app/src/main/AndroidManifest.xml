@@ -20,7 +20,9 @@
             android:name=".activity.NaviActivity"
             android:label="@string/title_activity_navi" />
         <activity android:name=".activity.ChildrenListActivity" />
-        <activity android:name=".activity.ChildrenNoticeActivity"></activity>
+        <activity android:name=".activity.ChildrenNoticeActivity" />
+        <activity android:name=".activity.SettingActivity" />
+        <activity android:name=".activity.NoticeContentActivity"></activity>
     </application>
 
 </manifest>

@@ -11,6 +11,7 @@ import android.widget.RadioGroup;
 
 import com.twinly.enotices.enoticesapp.R;
 import com.twinly.enotices.enoticesapp.fragment.AnnouncementFragment;
+import com.twinly.enotices.enoticesapp.fragment.MoreFragment;
 import com.twinly.enotices.enoticesapp.fragment.NoticeFragment;
 import com.twinly.enotices.enoticesapp.fragment.PendingFragment;
 import com.twinly.enotices.enoticesapp.utils.device.DeviceUtils;
@@ -60,6 +61,14 @@ public class ChildrenNoticeActivity extends AppCompatActivity {
                         FragmentTransaction transaction3=manager3.beginTransaction();
                         transaction3.replace(R.id.frame_fragments,announcementFragment,"notice_fragment");
                         transaction3.commit();
+                        break;
+
+                    case R.id.rbtn_more:
+                        FragmentManager manager4=getFragmentManager();
+                        MoreFragment moreFragment=MoreFragment.newInstance("","");
+                        FragmentTransaction transaction4=manager4.beginTransaction();
+                        transaction4.replace(R.id.frame_fragments,moreFragment,"notice_fragment");
+                        transaction4.commit();
                         break;
                     default:
                         break;
