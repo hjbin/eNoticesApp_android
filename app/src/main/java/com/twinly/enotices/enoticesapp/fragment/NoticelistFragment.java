@@ -7,9 +7,11 @@ import android.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import com.twinly.enotices.enoticesapp.R;
+import com.twinly.enotices.enoticesapp.adapter.UnreadNoticeListAdapter;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -65,9 +67,11 @@ public class NoticelistFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        TextView textView = new TextView(getActivity());
-        textView.setText(R.string.hello_blank_fragment);
-        return textView;
+        View view=inflater.inflate(R.layout.fragment_public_listview,null);
+        ListView lv_public=view.findViewById(R.id.lv_public);
+        UnreadNoticeListAdapter mAdapter=new UnreadNoticeListAdapter(getActivity().getApplicationContext());
+        lv_public.setAdapter(mAdapter);
+        return view;
     }
 
     // TODO: Rename method, update argument and hook method into UI event

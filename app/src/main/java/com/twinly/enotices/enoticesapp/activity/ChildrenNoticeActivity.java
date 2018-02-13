@@ -42,7 +42,7 @@ public class ChildrenNoticeActivity extends AppCompatActivity {
                 switch (i){
                     case R.id.rbtn_notice:
                         FragmentManager manager=getFragmentManager();
-                        NoticeFragment noticeFragment=NoticeFragment.newInstance("","");
+                        AnnouncementFragment noticeFragment=AnnouncementFragment.newInstance("","");
                         FragmentTransaction transaction=manager.beginTransaction();
                         transaction.replace(R.id.frame_fragments,noticeFragment,"notice_fragment");
                         transaction.commit();
@@ -61,6 +61,14 @@ public class ChildrenNoticeActivity extends AppCompatActivity {
                         FragmentTransaction transaction3=manager3.beginTransaction();
                         transaction3.replace(R.id.frame_fragments,announcementFragment,"notice_fragment");
                         transaction3.commit();
+                        break;
+
+                    case R.id.rbtn_event:
+                        FragmentManager manager5=getFragmentManager();
+                        AnnouncementFragment announcementFragment1=AnnouncementFragment.newInstance("","");
+                        FragmentTransaction transaction5=manager5.beginTransaction();
+                        transaction5.replace(R.id.frame_fragments,announcementFragment1,"notice_fragment");
+                        transaction5.commit();
                         break;
 
                     case R.id.rbtn_more:

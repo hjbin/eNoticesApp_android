@@ -26,11 +26,11 @@ public class BeeQuery<T> extends AQuery {
 	{
 		if (ENVIRONMENT_PRODUCTION == BeeQuery.environment()) 
 		{
-			return "http://api.dribbble.com";
+			return "";
 		}
 		else 
 		{
-			return "http://api.dribbble.com";
+			return "";
 		}
 	}
 	public <K> AQuery ajax(AjaxCallback<K> callback){

@@ -8,24 +8,24 @@
     <android.support.design.widget.TabLayout
         android:id="@+id/tab_group_announ"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="40dp"
         app:tabSelectedTextColor="@color/colorOrange"
         app:tabTextColor="@color/colorBorder">
 
         <android.support.design.widget.TabItem
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Left" />
+            android:text="Unread" />
 
         <android.support.design.widget.TabItem
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Center" />
+            android:text="Read" />
 
         <android.support.design.widget.TabItem
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Right" />
+            android:text="All" />
     </android.support.design.widget.TabLayout>
 
     <android.support.v4.view.ViewPager

@@ -1,15 +1,30 @@
 package com.twinly.enotices.enoticesapp.fragment;
 
 import android.content.Context;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.BeeFramework.model.BeeQuery;
+import com.BeeFramework.model.BusinessResponse;
+import com.external.androidquery.callback.AjaxStatus;
 import com.twinly.enotices.enoticesapp.R;
+import com.twinly.enotices.enoticesapp.activity.NoticeContentActivity;
+import com.twinly.enotices.enoticesapp.adapter.UnreadNoticeListAdapter;
+import com.twinly.enotices.enoticesapp.constants.Constants;
+import com.twinly.enotices.enoticesapp.model.MessageModel;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -19,7 +34,7 @@ import com.twinly.enotices.enoticesapp.R;
  * Use the {@link PendingFragment#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class PendingFragment extends Fragment {
+public class PendingFragment extends Fragment implements BusinessResponse {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
@@ -28,8 +43,9 @@ public class PendingFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
-
     private OnFragmentInteractionListener mListener;
+
+    private MessageModel messageModel;
 
     public PendingFragment() {
         // Required empty public constructor
@@ -65,7 +81,24 @@ public class PendingFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_pending,null);
+        View view=inflater.inflate(R.layout.fragment_pending,null);
+        ListView lv_msg=view.findViewById(R.id.lv_public);
+        UnreadNoticeListAdapter mAdapter=new UnreadNoticeListAdapter(this.getActivity().getApplicationContext());
+        lv_msg.setAdapter(mAdapter);
+
+        lv_msg.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                //Toast.makeText(getActivity(),"on item click", Toast.LENGTH_SHORT).show();
+                Intent it=new Intent(getActivity().getApplicationContext(), NoticeContentActivity.class);
+                getActivity().startActivity(it);
+            }
+        });
+
+        messageModel=new MessageModel(this.getActivity());
+        messageModel.addResponseListener(this);
+        messageModel.getUnreadMessage("46f6f1f420ff357053af4c407d313592");
+        return view;
     }
 
     // TODO: Rename method, update argument and hook method into UI event
@@ -90,6 +123,13 @@ public class PendingFragment extends Fragment {
     public void onDetach() {
         super.onDetach();
         mListener = null;
+    }
+
+    @Override
+    public void OnMessageResponse(String url, JSONObject jo, AjaxStatus status) throws JSONException {
+        if(url.startsWith(BeeQuery.getAbsoluteUrl(Constants.SHOW_UNREAD_MESSAGE))){
+            Log.i("[PendingFragment]","[show_unread_message]: "+jo.toString());
+        }
     }
 
     /**

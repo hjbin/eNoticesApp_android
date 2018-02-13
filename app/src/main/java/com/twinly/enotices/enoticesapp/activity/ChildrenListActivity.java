@@ -16,6 +16,7 @@ public class ChildrenListActivity extends AppCompatActivity {
     private ListView lv_children_list;
     private ChildrenListAdapter adapter;
     private Button back;
+    private Button btn_setting;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,6 +26,14 @@ public class ChildrenListActivity extends AppCompatActivity {
     }
 
     private void setAction() {
+        btn_setting.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent it=new Intent(ChildrenListActivity.this,SettingActivity.class);
+                startActivity(it);
+            }
+        });
+
         adapter=new ChildrenListAdapter(this);
         this.lv_children_list.setAdapter(adapter);
         this.lv_children_list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -38,5 +47,6 @@ public class ChildrenListActivity extends AppCompatActivity {
 
     private void findView() {
         this.lv_children_list=findViewById(R.id.lv_children_list);
+        this.btn_setting=findViewById(R.id.btn_system_setting);
     }
 }

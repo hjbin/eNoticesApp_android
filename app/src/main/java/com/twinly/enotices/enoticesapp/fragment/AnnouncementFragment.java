@@ -13,6 +13,7 @@ import android.widget.TableLayout;
 import android.widget.TextView;
 
 import com.twinly.enotices.enoticesapp.R;
+import com.twinly.enotices.enoticesapp.adapter.AnnouncementPagerAdapter;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -78,10 +79,29 @@ public class AnnouncementFragment extends Fragment {
 
         tabLayout=(TabLayout)view.findViewById(R.id.tab_group_announ);
         vp_announ=(ViewPager)view.findViewById(R.id.vp_announ);
+        AnnouncementPagerAdapter mAdapter=new AnnouncementPagerAdapter(getFragmentManager());
+        vp_announ.setAdapter(mAdapter);
+        vp_announ.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                tabLayout.getTabAt(position).select();
+
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
         tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
             public void onTabSelected(TabLayout.Tab tab) {
-
+                vp_announ.setCurrentItem(tab.getPosition());
             }
 
             @Override
