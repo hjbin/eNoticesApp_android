@@ -26,14 +26,16 @@ import com.twinly.enotices.enoticesapp.adapter.AnnouncementPagerAdapter;
 public class AnnouncementFragment extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-    private static final String ARG_PARAM1 = "param1";
-    private static final String ARG_PARAM2 = "param2";
+    private static final String SCHOOL_DB = "school_db";
+    private static final String SECRET_ID="secret_id";
+    private static final String TYPE = "type";
 
 
 
     // TODO: Rename and change types of parameters
-    private String mParam1;
-    private String mParam2;
+    private String school_db;
+    private String secret_id;
+    private String type;
 
     private OnFragmentInteractionListener mListener;
 
@@ -48,16 +50,18 @@ public class AnnouncementFragment extends Fragment {
      * Use this factory method to create a new instance of
      * this fragment using the provided parameters.
      *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
+     * @param school_db Parameter 1.
+     * @param secret_id Parameter 2.
+     * @param type Parameter type.
      * @return A new instance of fragment AnnouncementFragment.
      */
     // TODO: Rename and change types and number of parameters
-    public static AnnouncementFragment newInstance(String param1, String param2) {
+    public static AnnouncementFragment newInstance(String school_db, String secret_id,String type) {
         AnnouncementFragment fragment = new AnnouncementFragment();
         Bundle args = new Bundle();
-        args.putString(ARG_PARAM1, param1);
-        args.putString(ARG_PARAM2, param2);
+        args.putString(SCHOOL_DB, school_db);
+        args.putString(SECRET_ID, secret_id);
+        args.putString(TYPE,type);
         fragment.setArguments(args);
         return fragment;
     }
@@ -66,8 +70,9 @@ public class AnnouncementFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         if (getArguments() != null) {
-            mParam1 = getArguments().getString(ARG_PARAM1);
-            mParam2 = getArguments().getString(ARG_PARAM2);
+            school_db = getArguments().getString(SCHOOL_DB);
+            secret_id = getArguments().getString(SECRET_ID);
+            type=getArguments().getString(TYPE);
         }
     }
 
@@ -79,7 +84,7 @@ public class AnnouncementFragment extends Fragment {
 
         tabLayout=(TabLayout)view.findViewById(R.id.tab_group_announ);
         vp_announ=(ViewPager)view.findViewById(R.id.vp_announ);
-        AnnouncementPagerAdapter mAdapter=new AnnouncementPagerAdapter(getFragmentManager());
+        AnnouncementPagerAdapter mAdapter=new AnnouncementPagerAdapter(getFragmentManager(),school_db,secret_id,type);
         vp_announ.setAdapter(mAdapter);
         vp_announ.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override

@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 import com.twinly.enotices.enoticesapp.R;
 import com.twinly.enotices.enoticesapp.adapter.UnreadNoticeListAdapter;
+import com.twinly.enotices.enoticesapp.model.NoticeModel;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -24,6 +25,8 @@ import com.twinly.enotices.enoticesapp.adapter.UnreadNoticeListAdapter;
 public class NoticelistFragment extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
+    private NoticeModel noticeModel;
+
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
 
@@ -62,6 +65,8 @@ public class NoticelistFragment extends Fragment {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
+        noticeModel=new NoticeModel(getActivity());
+
     }
 
     @Override
@@ -69,8 +74,8 @@ public class NoticelistFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view=inflater.inflate(R.layout.fragment_public_listview,null);
         ListView lv_public=view.findViewById(R.id.lv_public);
-        UnreadNoticeListAdapter mAdapter=new UnreadNoticeListAdapter(getActivity().getApplicationContext());
-        lv_public.setAdapter(mAdapter);
+//        UnreadNoticeListAdapter mAdapter=new UnreadNoticeListAdapter(getActivity().getApplicationContext());
+//        lv_public.setAdapter(mAdapter);
         return view;
     }
 

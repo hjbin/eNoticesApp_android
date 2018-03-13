@@ -22,6 +22,7 @@ import com.twinly.enotices.enoticesapp.activity.NoticeContentActivity;
 import com.twinly.enotices.enoticesapp.adapter.UnreadNoticeListAdapter;
 import com.twinly.enotices.enoticesapp.constants.Constants;
 import com.twinly.enotices.enoticesapp.model.MessageModel;
+import com.twinly.enotices.enoticesapp.protocol.CHILDREN;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -37,34 +38,37 @@ import org.json.JSONObject;
 public class PendingFragment extends Fragment implements BusinessResponse {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-    private static final String ARG_PARAM1 = "param1";
-    private static final String ARG_PARAM2 = "param2";
+    private static final String ARG_PARAM1 = "secret_id";
+    private static final String ARG_PARAM2 = "school_db";
 
     // TODO: Rename and change types of parameters
-    private String mParam1;
-    private String mParam2;
+    private String secret_id;
+    private String school_db;
     private OnFragmentInteractionListener mListener;
+    private UnreadNoticeListAdapter mAdapter;
+    private ListView lv_msg;
 
     private MessageModel messageModel;
 
     public PendingFragment() {
         // Required empty public constructor
+
     }
 
     /**
      * Use this factory method to create a new instance of
      * this fragment using the provided parameters.
      *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
+     * @param secret_Id Parameter 1.
+     * @param school_Db Parameter 2.
      * @return A new instance of fragment PendingFragment.
      */
     // TODO: Rename and change types and number of parameters
-    public static PendingFragment newInstance(String param1, String param2) {
+    public static PendingFragment newInstance(String secret_Id, String school_Db) {
         PendingFragment fragment = new PendingFragment();
         Bundle args = new Bundle();
-        args.putString(ARG_PARAM1, param1);
-        args.putString(ARG_PARAM2, param2);
+        args.putString(ARG_PARAM1, secret_Id);
+        args.putString(ARG_PARAM2, school_Db);
         fragment.setArguments(args);
         return fragment;
     }
@@ -73,8 +77,8 @@ public class PendingFragment extends Fragment implements BusinessResponse {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         if (getArguments() != null) {
-            mParam1 = getArguments().getString(ARG_PARAM1);
-            mParam2 = getArguments().getString(ARG_PARAM2);
+            secret_id = getArguments().getString(ARG_PARAM1);
+            school_db = getArguments().getString(ARG_PARAM2);
         }
     }
 
@@ -82,22 +86,23 @@ public class PendingFragment extends Fragment implements BusinessResponse {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view=inflater.inflate(R.layout.fragment_pending,null);
-        ListView lv_msg=view.findViewById(R.id.lv_public);
-        UnreadNoticeListAdapter mAdapter=new UnreadNoticeListAdapter(this.getActivity().getApplicationContext());
-        lv_msg.setAdapter(mAdapter);
+        lv_msg=view.findViewById(R.id.lv_public);
 
         lv_msg.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 //Toast.makeText(getActivity(),"on item click", Toast.LENGTH_SHORT).show();
                 Intent it=new Intent(getActivity().getApplicationContext(), NoticeContentActivity.class);
+                it.putExtra("school_db",school_db);
+                it.putExtra("secret_id",secret_id);
+                it.putExtra("notice_id",messageModel.messageList.get(i).id);
                 getActivity().startActivity(it);
             }
         });
 
         messageModel=new MessageModel(this.getActivity());
         messageModel.addResponseListener(this);
-        messageModel.getUnreadMessage("46f6f1f420ff357053af4c407d313592");
+        messageModel.getUnreadMessage(secret_id);
         return view;
     }
 
@@ -129,6 +134,10 @@ public class PendingFragment extends Fragment implements BusinessResponse {
     public void OnMessageResponse(String url, JSONObject jo, AjaxStatus status) throws JSONException {
         if(url.startsWith(BeeQuery.getAbsoluteUrl(Constants.SHOW_UNREAD_MESSAGE))){
             Log.i("[PendingFragment]","[show_unread_message]: "+jo.toString());
+            if (mAdapter==null){
+                mAdapter=new UnreadNoticeListAdapter(getActivity(),messageModel.messageList);
+                lv_msg.setAdapter(mAdapter);
+            }
         }
     }
 

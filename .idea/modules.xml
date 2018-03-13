@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/beeframework/beeframework.iml" filepath="$PROJECT_DIR$/beeframework/beeframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/eNoticesApp.iml" filepath="$PROJECT_DIR$/eNoticesApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eNoticesApp_android.iml" filepath="$PROJECT_DIR$/eNoticesApp_android.iml" />
     </modules>
   </component>
 </project>

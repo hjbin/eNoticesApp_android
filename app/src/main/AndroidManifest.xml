@@ -22,7 +22,33 @@
         <activity android:name=".activity.ChildrenListActivity" />
         <activity android:name=".activity.ChildrenNoticeActivity" />
         <activity android:name=".activity.SettingActivity" />
-        <activity android:name=".activity.NoticeContentActivity"></activity>
+        <activity android:name=".activity.NoticeContentActivity">
+            <intent-filter>
+                <action android:name="com.twinly.enoticesapp.register_activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.SchoolInfoActivity" />
+        <activity android:name=".activity.RegisterActivity" />
+
+        <service android:name=".services.EnoticesFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".services.EnoticesFirebaseMessagesService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".activity.QuestionReplyActivity" />
+        <activity android:name=".activity.TemperatureReportActivity" />
+        <activity android:name=".activity.LeavingApplicationListActivity" />
+        <activity android:name=".activity.AddLeavingApplicationActivity" />
+        <activity android:name=".activity.QAListActivity" />
+        <activity android:name=".activity.WebBrowserActivity"></activity>
     </application>
 
 </manifest>

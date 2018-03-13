@@ -5,4 +5,10 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorBorder">#A6ACAF</color>
     <color name="colorOrange">#ff5733</color>
+    <color name="colorProcessing">#d88080</color>
+    <color name="colorReject">#ff0000</color>
+    <color name="colorApprove">#14ef14</color>
+    <color name="colorWithdraw">#7f7f7f</color>
+    <color name="colorWithdrawBack">#EAECEE</color>
+    <color name="colorWhite">#ffffff</color>
 </resources>

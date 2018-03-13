@@ -63,15 +63,12 @@ public class MessageModel extends BaseModel{
         };
 
         HashMap<String,Object> params=new HashMap<String,Object>();
-        params.put("secret_id","46f6f1f420ff357053af4c407d313592");
+        params.put("secret_id",secret_id);
         params.put("school_db","testschool_8_9");
         params.put("filter","");
         cb.url(url).type(JSONObject.class).method(com.external.androidquery.util.Constants.METHOD_POST).params(params);
         MyProgressDialog mPro = new MyProgressDialog(mContext, "请稍后...");
         aq.progress(mPro.mDialog).ajax(cb);
-    }
-    public void getUnreadMessage(){
-
     }
 
 

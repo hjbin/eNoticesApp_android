@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:background="#ffffff"
     android:orientation="vertical"
+    android:id="@+id/ll_notice_content_parent"
     tools:context="com.twinly.enotices.enoticesapp.activity.NoticeContentActivity">
 
     <include
@@ -14,7 +15,7 @@
         android:layout_height="wrap_content" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/tv_detail_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
@@ -61,7 +62,7 @@
 
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/btn_qa_list"
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:background="@mipmap/q_and_a_icon"
@@ -73,6 +74,7 @@
     </LinearLayout>
 
     <WebView
+        android:id="@+id/wb_content"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
